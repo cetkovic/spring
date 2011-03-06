@@ -44,6 +44,9 @@ public class HomeController {
 		model.addAttribute("output", output);
 		return "compareResult";
 	}
+	private void testMethod1(){
+		logger.info("dodatak koji je napravio drugi developer");
+	}
 	
 }
 
