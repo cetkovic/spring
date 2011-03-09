@@ -50,5 +50,9 @@ public class HomeController {
 		logger.info("otkrivena je greska na RELEASE branchu!!");
 	}
 	
+	private void testMethod2(){
+		logger.info("here is a window tortoiseGIT push ;)");
+	}
+	
 }
 
