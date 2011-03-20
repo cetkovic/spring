@@ -13,7 +13,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * Handles requests for the application home page.
- * @author Vladimir Cetkovic
+ * @author Vladimir Ćetković
+ * @date Mar 20, 2011
  */
 @Controller
 public class HomeController {
