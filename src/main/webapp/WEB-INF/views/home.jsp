@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!
+	Hello test spring home view :)
 </h1>
 </body>
 </html>

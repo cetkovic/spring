@@ -4,3 +4,4 @@
 .project
 target/*
 /target
+nb-configuration.xml

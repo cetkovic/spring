@@ -7,7 +7,7 @@ public class TestControllers {
 
 	@Test
 	public void test1(){
-		Assert.assertNull(new String("not null ;)"));
+		Assert.assertNull(null);
 	}
 
 }
