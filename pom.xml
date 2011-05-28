@@ -7,6 +7,20 @@
 	<name>TestSpringMVC</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
+<!--    ### TEMPLATE FOR DISTRIBUTION MANAGEMENT ###
+        <distributionManagement>
+          <repository>
+            <id>repo</id>
+            <name>My repository</name>
+            <url>scp://host/path/to/repo</url>
+          </repository>
+          <snapshotRepository>
+            <id>repo</id>
+            <name>Repository Name</name>
+            <url>scp://host/path/to/repo</url>
+          </snapshotRepository>
+      </distributionManagement>
+-->
 	<properties>
 		<java-version>1.6</java-version>
 		<org.springframework-version>3.0.4.RELEASE</org.springframework-version>
