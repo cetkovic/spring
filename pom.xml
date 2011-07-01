@@ -7,7 +7,7 @@
 	<name>TestSpringMVC</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
-<!--    ### TEMPLATE FOR DISTRIBUTION MANAGEMENT ###
+<!--    ### TEMPLATE FOR DISTRIBUTION MANAGEMENT ### BLA BLA
         <distributionManagement>
           <repository>
             <id>repo</id>
