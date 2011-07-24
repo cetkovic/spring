@@ -44,6 +44,8 @@ public class HomeController {
 
 		model.addAttribute("output", output);
 		return "compareResult";
+		
+		// test 2 linux
 	}
 	
 }
